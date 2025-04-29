@@ -24,24 +24,22 @@ Network Engineering student passionate about DevOps, Cloud, and AI/ML. I'm const
   <p><strong>Languages:</strong></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python" /> Python &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="JavaScript" /> JavaScript &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="TypeScript" /> TypeScript &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java" /> Java
-
+<br/>
   <p><strong>Frontend:</strong></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React" /> React &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="Next.js" /> Next.js &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="25" alt="Angular" /> Angular &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="25" alt="Storybook" /> Storybook
-
+<br/>
   <p><strong>Backend:</strong></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="Spring Boot" /> Spring Boot &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="Node.js" /> Node.js &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="25" alt="Flask" /> Flask
-
+<br/>
   <p><strong>Databases:</strong></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" alt="MongoDB" /> MongoDB &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="MySQL" /> MySQL
-
+<br/>
   <p><strong>DevOps:</strong></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="Docker" /> Docker &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="25" alt="Kubernetes" /> Kubernetes &nbsp;
@@ -49,20 +47,19 @@ Network Engineering student passionate about DevOps, Cloud, and AI/ML. I'm const
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="25" alt="Ansible" /> Ansible &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="25" alt="Jenkins" /> Jenkins &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="25" alt="GitLab" /> GitLab CI/CD
-
+<br/>
   <p><strong>Cloud:</strong></p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="25" alt="AWS" /> AWS &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="25" alt="GCP" /> GCP &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="25" alt="Azure" /> Azure &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original.svg" height="25" alt="OpenStack" /> OpenStack
-
+<br/>
   <p><strong>Monitoring & Security:</strong></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="25" alt="Prometheus" /> Prometheus &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="25" alt="Grafana" /> Grafana
-
+<br/>
   <p><strong>Web Scraping & ML:</strong></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python" /> Scrapy &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python" /> Selenium &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/selenium.svg" height="25" alt="Python" /> Selenium &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="25" alt="TensorFlow" /> TensorFlow
 
 </div>
