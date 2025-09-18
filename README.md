@@ -62,6 +62,15 @@ Network Engineering student passionate about DevOps, Cloud, and AI/ML. I'm const
 
 ## 🔍 Featured Projects
 
+### 🤖 Market Intelligence Platform  
+Developed an AI-powered competitor intelligence system that:  
+
+- Processed **10,000+ products** with automated data extraction using <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python"/> Crawl4AI  
+- Orchestrated **LLM agents** with Pgvector memory and RAG pipelines (Ollama embeddings)  
+- Conducted **model evaluation** (DeepSeek, Llama 4 Maverick) for optimal LLM selection  
+- Built a <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="Next.js"/> **Next.js dashboard** for semantic market analysis, deployed with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="Docker"/> Docker  
+
+
 ### 🤖 Job Search AI Assistant
 Developed an intelligent job search assistant that:
 - Scrapes job postings using Selenium, Scrapy, and BeautifulSoup
