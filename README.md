@@ -21,7 +21,15 @@ Network Engineering student passionate about DevOps, Cloud, and AI/ML. I'm const
 
 **Languages**             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python"/> Python &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="JavaScript"/> JavaScript &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java"/> Java 
 
-**AI/ML & LLMs**         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python"/> LangChain    LangGraph    Hugging Face    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pytorch/pytorch-original.svg" height="25" alt="PyTorch"/> PyTorch    Scikit-learn    RAG    Ollama
+**AI/ML & LLMs** |
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python"/> Python   
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white" height="25" alt="LangChain"/> LangChain   
+<img src="https://img.shields.io/badge/LangGraph-20232A?style=flat&logo=graphql&logoColor=white" height="25" alt="LangGraph"/> LangGraph   
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" height="25" alt="Hugging Face"/> Hugging Face   
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pytorch/pytorch-original.svg" height="25" alt="PyTorch"/> PyTorch   
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" height="25" alt="Scikit-learn"/> Scikit-learn   
+<img src="https://img.shields.io/badge/RAG-007ACC?style=flat&logo=azurepipelines&logoColor=white" height="25" alt="RAG"/> RAG   
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" height="25" alt="Ollama"/> Ollama
 
 **Frontend**              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React"/> React &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="Next.js"/> Next.js &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="25" alt="Angular"/> Angular 
 
@@ -35,7 +43,7 @@ Network Engineering student passionate about DevOps, Cloud, and AI/ML. I'm const
 
 **Monitoring & Security** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="25" alt="Prometheus"/> Prometheus &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="25" alt="Grafana"/> Grafana 
 
-**Web Scraping**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python"/> Scrapy &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="25" alt="Selenium"/> Selenium &nbsp;&nbsp; Crawl4AI
+**Web Scraping**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python"/> Scrapy &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="25" alt="Selenium"/> Selenium &nbsp;&nbsp; <img src="https://img.shields.io/badge/Crawl4AI-000000?logo=OpenAI&logoColor=white" height="25" alt="Crawl4AI"/> Crawl4AI
 
 
 ## 🎓 Recent Achievements
