@@ -21,7 +21,7 @@ Network Engineering student passionate about DevOps, Cloud, and AI/ML. I'm const
 
 **Languages**             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python"/> Python &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="JavaScript"/> JavaScript &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java"/> Java 
 
-**AI/ML & LLMs**         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python"/> LangChain    LangGraph    Hugging Face    <img src=https://github.com/devicons/devicon/blob/v2.17.0/icons/pytorch/pytorch-original.svg: height="25" alt="PyTorch"/> PyTorch    Scikit-learn    RAG    Ollama
+**AI/ML & LLMs**         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python"/> LangChain    LangGraph    Hugging Face    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pytorch/pytorch-original.svg" height="25" alt="PyTorch"/> PyTorch    Scikit-learn    RAG    Ollama
 
 **Frontend**              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React"/> React &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="Next.js"/> Next.js &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="25" alt="Angular"/> Angular 
 
