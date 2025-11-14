@@ -12,7 +12,7 @@ Network Engineering student passionate about DevOps, Cloud, and AI/ML. I'm const
 
 ## 🔭 Current Focus
 
-- Building AI agents using LangChain, LlamaIndex, and smolagents
+- Building AI agents using LangChain, MastraAI, and smolagents
 - Implementing DevSecOps pipelines with GitLab CI, SonarQube, and Trivy
 - Developing microservices architectures with Docker and Kubernetes
 - Automating infrastructure deployment with Terraform and Ansible
